@@ -9,6 +9,8 @@ version="${mod_version}"
 displayName="Royal Titles"
 displayURL="https://modrinth.com/mod/royal-titles"
 authors="ary82"
+logoFile="logo.png"
+credits="Icon: \"Crown\" by Lorc, https://game-icons.net, CC BY 3.0"
 description='''
 Op-defined titles with rarity colors, configured in config/royal_titles.json or by command.
 Players equip one main title shown in chat and the tab list (and optionally their nametag),
